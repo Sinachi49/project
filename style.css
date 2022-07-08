@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("../images/pattern-background-desktop.svg");
+    background-color: hsl(225, 100%, 94%);
+}
+.oga{
+    width: 30%;
+    margin: auto;
+    border-radius: 10px;
+    text-align: center;
+    background-color: white;
+    height: 550px;
+    margin-top: 20px;
+}
+.esther{
+    width: 100%;
+    border-top-left-radius: 10px ;
+    border-top-right-radius: 10px;
+}
+h1{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.james p{
+    width: 70%;
+    margin-left: 60px;
+}
+.touch{
+    display: flex;
+    margin-left: 70px;
+    margin-right: 50px;
+    align-items: center;
+    margin-top: 20px;
+    background-color: hsl(225, 100%, 94%);
+    
+    
+}
+.touch a{
+    margin-left: 90px;
+}
+.touch g{
+margin-right: 20px;
+}
+.hope{
+ padding: 10px 80px;
+ border: none;
+margin-top: 15px;
+margin-left: 15px;
+border-top-left-radius: 6px;
+border-top-right-radius: 6px;
+border-bottom-left-radius: 6px;
+border-bottom-right-radius: 6px;
+
+
+    
+}
+.o{
+    margin-top: 20px;
+}
+
+.t{
+    margin-top: 20px;
+}
+.g{
+    margin-right: 15px;
+}
