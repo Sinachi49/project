@@ -49,7 +49,7 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 
 As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
 
-- [GitHub Pages](https://pages.github.com/)
+- [GitHub Pages](http://127.0.0.1:5500/order-summary-component-main/index.html)
 - [Vercel](https://vercel.com/)
 - [Netlify](https://www.netlify.com/)
 
